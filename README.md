@@ -23,10 +23,10 @@ Camunda-Tutorial
 ### 4. 위 그림에서 왼쪽 동그라미를 더블클릭해서 StartEvent 작성
 - `Lafayette want to be involved in a Revolutio`
 - 라파예르는 프랑스 혁명 중에는 국민위병의 지휘관이라고 한다.
+
 ![image](https://user-images.githubusercontent.com/83193687/173277352-c0e1c053-b449-4afb-80c1-6299932f18fe.png)
 
 ### 5. 최종적으로 이와 같은 도식도(process.bpmn) 완료
-![image](https://user-images.githubusercontent.com/83193687/173277946-9bee4e2f-c0ff-49d0-baf7-294f79cda9ae.png)
-
+<img width="778" alt="image" src="https://user-images.githubusercontent.com/83193687/173506747-c384ef4c-b413-41bf-8aac-af4e400dcea3.png">
 
 ### 5. File => New File => `Form` 클릭 후, 좌측 `Text Field` 드래그해서 필드 생성
